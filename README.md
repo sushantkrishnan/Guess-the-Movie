@@ -3,4 +3,6 @@
  ## Installations
  Add/change the name of movies in movies.txt.
  
- Clone the repository and open as IntelliJ project and run the project.
+ Clone the repository and open as IntelliJ project.
+ 
+ Run the Main.java file.
